@@ -1,1 +1,2 @@
-# Regression-Analysis-MATH-440
+# Regression Analysis
+Linear regression analysis problem is solved by building an OLS, making an EDA and statistical tests: QQ plot, residuals plot, kernel density function, Shapiro-Wilk test, Kolmogorov-Smirnov test. 
